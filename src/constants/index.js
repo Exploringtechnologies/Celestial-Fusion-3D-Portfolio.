@@ -166,21 +166,25 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Celestial Fusion 3D Portfolio",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Explore a captivating world of lifelike 3D models using Three.js and React.js. Dynamic animations charm visitors, while EmailJS keeps connections effortless. Tailwind CSS adds celestial style. Embark on our cosmic adventure today. 🚀🌌✨",
       tags: [
         {
-          name: "react",
+          name: "reactJs",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "threeJs",
           color: "green-text-gradient",
         },
         {
           name: "tailwind",
           color: "pink-text-gradient",
+        },
+        {
+          name: "emailJs",
+          color: "orange-text-gradient",
         },
       ],
       image: carrent,
