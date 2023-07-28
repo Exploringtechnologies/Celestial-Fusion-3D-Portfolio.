@@ -32,12 +32,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt
-        consectetur hic quod doloribus enim odio sit vitae fugiat, veritatis
-        nihil quasi soluta harum beatae dicta, incidunt quisquam! Nam nisi
-        repudiandae nesciunt error incidunt praesentium aspernatur minima neque
-        similique atque est velit, ex, suscipit dolore hic dolorum consequatur
-        eligendi ut tenetur.
+        Passionate about software engineering, I aim to join a dynamic team and contribute to real-world projects using cutting-edge technologies. I thrive on crafting innovative solutions that empower individuals and organizations globally. Eager to learn from industry experts, I am committed to making a positive impact through my skills and dedication. Let's create a better future through technology together.
+
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((services, index) => (
