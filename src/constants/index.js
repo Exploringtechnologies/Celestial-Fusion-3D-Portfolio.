@@ -24,6 +24,9 @@ import {
   tripguide,
   threejs,
   shreya,
+  stack,
+  hey,
+  mithya,
 } from "../assets";
 
 export const navLinks = [
@@ -87,8 +90,8 @@ const experiences = [
   {
     title: "Software Engineering",
     company_name: "Stacksmith Consultancy",
-    icon: starbucks,
-    iconBg: "#383E56",
+    icon: stack,
+    iconBg: "#172D44",
     date: "Nov 2021 - Jan 2022",
     points: [
       "Developed a full-fledged App from scratch, contributing approximately 2800 lines of code.",
@@ -100,8 +103,8 @@ const experiences = [
   {
     title: "Full Stack Developer",
     company_name: "Mithya Labs",
-    icon: tesla,
-    iconBg: "#E6DEDD",
+    icon: mithya,
+    iconBg: "#000000",
     date: "Sep 2021 - Oct 2022",
     points: [
       "Built engaging screens and corresponding websites for a Fitness.",
@@ -113,8 +116,8 @@ const experiences = [
   {
     title: "Android Developer",
     company_name: "Hey!Foodie",
-    icon: shopify,
-    iconBg: "#383E56",
+    icon: hey,
+    iconBg: "#FFFFFF",
     date: "Jul 2020 - Sep 2020",
     points: [
       "Pioneered UI design and actively participated in UI/UX discussions for Hey! Foodie, a food-tech platform.",

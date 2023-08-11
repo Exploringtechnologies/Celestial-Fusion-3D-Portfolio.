@@ -73,12 +73,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text=secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum ea
-          ratione beatae quis tenetur impedit laudantium earum! Ab, mollitia
-          quibusdam nesciunt excepturi maxime sit? Illum quia nobis fuga
-          consectetur veniam vero beatae maxime doloribus! At hic delectus optio
-          explicabo nisi molestias consectetur eos, minima laborum qui, eum
-          accusamus quibusdam. Debitis!
+          website's primary objective is to showcase a collection of projects to demonstrate a person's skills, experience, and accomplishments in a specific field. This type of website is commonly used by professionals, such as software developers, designers, photographers, writers, and other creatives, to highlight their work and attract potential clients, employers, or collaborators. The focus is on presenting a visually appealing and informative platform that allows visitors to understand the scope, quality, and impact of the showcased projects, thereby establishing the person's credibility and expertise in their respective field.
         </motion.p>
       </div>
       <div className="mt-20 flex flex-wrap gap-7">
